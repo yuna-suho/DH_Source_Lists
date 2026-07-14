@@ -1,7 +1,9 @@
-※ Use "pip download ~" command on Windows/Kali, and download documentation
+※ Use "pip download ~" command on Windows/Kali/Sage9.3, and download documentation
 
 requests
 bs4
 paramiko
 pwntools
 flask
+pycryptodome
+tqdm
