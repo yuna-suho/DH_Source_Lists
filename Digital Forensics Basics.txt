@@ -1,0 +1,8 @@
+1. Introduction to Digital Forensics: Cybercrime Investigation Mission
+    https://www.autopsy.com/download/
+        https://github.com/sleuthkit/autopsy_addon_modules // Check All modules, there are only links for some modules.
+    https://mh-nexus.de/en/downloads    // HxD
+    https://github.com/Ge0rg3/StegOnline
+        https://github.com/Giotino/stegsolve
+    https://www.audacityteam.org/
+
