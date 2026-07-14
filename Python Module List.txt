@@ -1,9 +1,11 @@
-※ Use "pip download ~" command on Windows/Kali/Sage9.3, and download documentation
+// Use "pip download ~" command on Windows/Kali
+// (+Sage9.3) -> Ather installation Sage9.3 on Windows and download python packages for that.
 
 requests
 bs4
 paramiko
-pwntools
+pwntools (+Sage9.3)
 flask
-pycryptodome
-tqdm
+pycryptodome (+Sage9.3)
+tqdm (+Sage9.3)
+Selenium
