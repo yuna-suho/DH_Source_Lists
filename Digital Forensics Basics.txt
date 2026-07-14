@@ -6,3 +6,15 @@
         https://github.com/Giotino/stegsolve
     https://www.audacityteam.org/
 
+3. Digital Evidences
+    https://www.exterro.com/digital-forensics-software/ftk-imager
+        https://ftkcore.com/download
+    https://github.com/microsoft/terminal    // Windows Terminal
+    https://github.com/Velocidex/WinPmem
+    https://hashcalc.en.download.it/
+    https://www.voidtools.com/downloads/    // Everything
+    https://github.com/chr0n1k/AL2021/blob/main/DumpIt-Comae-Toolkit-v20230117.zip    // Comae-Toolkit-v20230117
+    https://github.com/volatilityfoundation/volatility
+
+5. File System
+    https://www.digital-detective.net/dcode/
