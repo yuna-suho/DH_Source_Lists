@@ -1,0 +1,29 @@
+2. Penetration Testing Process
+    https://github.com/trufflesecurity/trufflehog
+    https://github.com/michenriksen/aquatone
+    https://www.wappalyzer.com/
+    https://github.com/projectdiscovery/subfinder
+    https://github.com/nmap/nmap
+        https://nmap.org/download.html
+    https://github.com/projectdiscovery/nuclei
+    https://github.com/sqlmapproject/sqlmap
+    https://github.com/hahwul/dalfox
+    https://www.wireshark.org/
+    https://github.com/NationalSecurityAgency/ghidra
+    https://hex-rays.com/ida-free
+    https://github.com/frida/frida
+    https://github.com/peass-ng/PEASS-ng
+
+
+3. DreamCommunity Penetration Testing - Intelligence Gathering & Threat Modeling
+    https://www.wappalyzer.com/
+    https://github.com/OJ/gobuster
+    https://github.com/ffuf/ffuf
+    https://github.com/danielmiessler/SecLists
+
+4. DreamCommunity Penetration Testing - Vulnerability Analysis & Exploitation
+    https://github.com/psypanda/hashID
+    https://github.com/hashcat/hashcat
+    https://github.com/SonarSource/sonarqube
+    https://ngrok.com/
+        https://github.com/kernelshard/expose
