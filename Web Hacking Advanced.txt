@@ -1,0 +1,2 @@
+3. CSS Injection
+    https://github.com/cure53/HTTPLeaks/blob/main/leak.html#L266

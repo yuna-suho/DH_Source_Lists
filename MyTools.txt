@@ -1,0 +1,34 @@
+Request Bin
+    https://github.com/GaIsBAX/Webhix
+
+Git Server
+    https://github.com/go-gitea/gitea
+    https://github.com/thomiceli/opengist
+
+Technitium DNS Server
+    https://technitium.com/dns/
+
+Proxmox(VPS, Mail Server)
+    https://www.proxmox.com/en/downloads
+
+Wireshark
+    https://www.wireshark.org/download/win64/
+
+wget
+    https://eternallybored.org/misc/wget/
+
+CouchDB
+    https://couchdb.apache.org/#download
+
+Redis
+    https://github.com/redis-windows/redis-windows
+
+nginx
+    https://nginx.org/en/download.html
+
+Burpsuite Professional
+    https://github.com/xiv3r/Burpsuite-Professional
+        https://download.oracle.com/java/21/archive/jdk-21_windows-x64_bin.exe 
+        https://javadl.oracle.com/webapps/download/AutoDL?BundleId=247947_0ae14417abb444ebb02b9815e2103550 
+        https://portswigger.net/burp/releases/download?product=pro&type=Jar 
+        https://github.com/xiv3r/Burpsuite-Professional/raw/refs/heads/main/loader.jar 

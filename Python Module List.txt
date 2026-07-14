@@ -5,7 +5,11 @@ requests
 bs4
 paramiko
 pwntools (+Sage9.3)
-flask
 pycryptodome (+Sage9.3)
 tqdm (+Sage9.3)
+-------------------------
+flask
+flask_mysqldb
 Selenium
+dotenv
+playwright

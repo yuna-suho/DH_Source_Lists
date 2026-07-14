@@ -1,0 +1,8 @@
+1. XSS Filtering Bypass
+    https://jsfuck.com/
+        https://github.com/aemkei/jsfuck
+
+2. Content Security Policy (CSP)
+    https://github.com/swisskyrepo
+        https://github.com/swisskyrepo/PayloadsAllTheThings
+        https://github.com/swisskyrepo/InternalAllTheThings
