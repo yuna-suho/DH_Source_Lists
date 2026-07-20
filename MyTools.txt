@@ -1,6 +1,3 @@
-Request Bin
-    https://github.com/GaIsBAX/Webhix
-
 Git Server
     https://github.com/go-gitea/gitea
     https://github.com/thomiceli/opengist
@@ -36,3 +33,10 @@ Burpsuite Professional
 SQLite
     https://www.sqlite.org/
 
+Webhook Tools
+    https://github.com/GaIsBAX/Webhix
+    https://github.com/tarampampam/webhook-tester
+    https://github.com/webhooksite/webhook.site // Nginx/Apache, Redis
+
+XSS-Cheat-Sheet
+    https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
