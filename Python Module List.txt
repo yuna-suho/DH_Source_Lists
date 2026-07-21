@@ -6,6 +6,7 @@ pwntools  // including (requests, paramiko)
 pycryptodome
 tqdm
 passagemath-standard // SageMath
+fastecdsa
 -------------------------
 flask
 flask_mysqldb
