@@ -1,0 +1,20 @@
+3. Environment Setup for Linux
+    https://ubuntu.com/download/server
+        https://ubuntu.com/download/server/thank-you?version=24.04.2&architecture=amd64&lts=true
+    https://www.virtualbox.org/wiki/Download_Old_Builds_7_1
+        https://download.virtualbox.org/virtualbox/7.1.4/VirtualBox-7.1.4-165100-Win.exe
+            https://www.virtualbox.org/wiki/Downloads
+    https://ubuntu.com/download/desktop
+        https://ubuntu.com/download/desktop/thank-you?version=24.04.2&architecture=amd64&lts=true
+
+
+6. Hacker's Life Hacks
+    https://code.visualstudio.com/download
+        https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
+        https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh
+        https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+    https://github.com/wagoodman/dive
+    https://github.com/gchq/CyberChef
+    https://regexper.com/
+        https://gitlab.com/javallone/regexper-static    // Need to Install with node_modules
+    
