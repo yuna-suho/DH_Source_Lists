@@ -18,3 +18,7 @@
     https://regexper.com/
         https://gitlab.com/javallone/regexper-static    // Need to Install with node_modules
     
+7. Reverse Engineering Essentials
+    https://mh-nexus.de/en/downloads.php?product=HxD20    // HxD
+    https://github.com/NationalSecurityAgency/ghidra/releases    // Ghidra
+    https://adoptium.net/temurin/releases    // JDK
