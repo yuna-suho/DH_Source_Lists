@@ -1,0 +1,8 @@
+4. GDB
+    https://github.com/hugsy/gef
+    https://github.com/longld/peda
+    https://github.com/scwuaptx/Pwngdb
+    https://github.com/pwndbg/pwndbg
+
+5. NASM
+    https://www.nasm.us/
