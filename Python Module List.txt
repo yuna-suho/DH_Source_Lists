@@ -1,7 +1,7 @@
 // Use "pip download ~" command on Kali/Windows
 
 pip // python -m pip install --no-index --find-links=. --upgrade pip
-bs4
+beautifulsoup4  // bs4
 pwntools  // including (requests, paramiko)
 pycryptodome
 tqdm
