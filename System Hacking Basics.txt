@@ -1,2 +1,5 @@
 2. Shellcode
     https://github.com/7feilee/shellcode
+
+11. Bypassing PIE & RELRO
+    https://github.com/david942j/one_gadget

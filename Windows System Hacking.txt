@@ -1,0 +1,11 @@
+1. Environment Setup for Windows System Hacking
+    https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.exe
+    https://www.python.org/ftp/python/3.9.8/python-3.9.8.exe
+    https://github.com/Wenzel/checksec.py/releases
+    https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger
+    https://github.com/ivellioscolin/pykd-ext/releases/tag/pykd_ext_2.0.0.25
+    https://github.com/qwerty-theori/qwef
+
+3. Windows PE File Structure and Mitigations
+    https://github.com/jasonwhite/ducible
+    http://wjradburn.com/software/PEview.zip
