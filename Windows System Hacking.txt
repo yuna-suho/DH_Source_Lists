@@ -9,3 +9,9 @@
 3. Windows PE File Structure and Mitigations
     https://github.com/jasonwhite/ducible
     http://wjradburn.com/software/PEview.zip
+
+5. Windows ROP
+    https://github.com/0vercl0k/rp
+    
+6. Windows SEH
+    https://github.com/leesh3288/WinPwn
