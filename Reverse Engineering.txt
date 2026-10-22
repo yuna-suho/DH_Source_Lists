@@ -1,3 +1,8 @@
 5. IDA
     https://web.archive.org/web/20240324104540/https://out7.hex-rays.com/files/idafree84_windows.exe
     https://web.archive.org/web/20240324104540/https://out7.hex-rays.com/files/idafree84_linux.run
+
+10. SMT Solvers
+    https://github.com/Z3Prover
+    https://github.com/verus-lang/verus
+    
