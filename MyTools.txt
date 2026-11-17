@@ -24,10 +24,11 @@ nginx
     https://nginx.org/en/download.html
 
 Burpsuite Professional
-    https://github.com/xiv3r/Burpsuite-Professional
-        https://adoptium.net/temurin/releases
+    https://github.com/xiv3r/Burp
+        https://download.oracle.com/java/21/archive/jdk-21_windows-x64_bin.exe 
+        https://javadl.oracle.com/webapps/download/AutoDL?BundleId=247947_0ae14417abb444ebb02b9815e2103550
         https://portswigger.net/burp/releases/download?product=pro&type=Jar 
-        https://github.com/IshantSomani/Burpsuite-Professional/blob/main/loader.jar
+        https://github.com/xiv3r/Burp/blob/Blck/loader.jar
 
 SQLite
     https://www.sqlite.org/
