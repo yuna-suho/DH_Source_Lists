@@ -4,6 +4,7 @@ pip // python -m pip install --no-index --find-links=. --upgrade pip
 beautifulsoup4  // bs4
 pwntools  // including (requests, paramiko)
 pycryptodome
+pycryptodomex
 tqdm
 passagemath-standard // SageMath
 fastecdsa
